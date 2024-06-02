@@ -1,0 +1,16 @@
+body{
+    background: rgb(98, 226, 243);
+}
+.taskBox{
+    background-color: #b2eaef;
+}
+.trash, .update {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+.trash i, .update i {
+    background: none;
+    border: none;
+}
